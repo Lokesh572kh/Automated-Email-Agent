@@ -5,7 +5,7 @@ Institue - IIT, Gandhinagar
 
 Architecture:
 
-![Project screenshot](img/"chatbot architecture.jpg")
+![Project screenshot](img/chatbot%20architecture.jpg)
 
 The basic flow of my application is like following:
 Step 1: User gives input to the chatbot.
