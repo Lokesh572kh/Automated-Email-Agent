@@ -1,0 +1,16 @@
+torch
+datasets
+transformers
+pandas
+langchain_groq
+langchain_core
+groq
+sentence-transformers
+chromadb 
+streamlit
+tqdm
+huggingface_hub
+python-dotenv
+pypdf
+langchain
+langchain-community
