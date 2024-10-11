@@ -78,6 +78,12 @@ When the email is sent by a student, it looks for any information in documents a
 If the email contains any sensitive information, the chatbot identifies it and formwards it to HOD and informs the same to the sender.
 
 
+### Live Demo of the Chatbot:
+
+[Watch the video](./img/Live%20Demo.mp4)
+
+
+
 
 
 
