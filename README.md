@@ -42,4 +42,44 @@ I used LLama3-70b-8192 for the dataset generation as well as for drafting mails.
         
 ## Working of Chatbot<br>
 
+### Corporates:<br>
+
+![Project screenshot](img/corp.jpg)
+
+When the email is sent by a corporate the classifier classifies it and the email gets forwarded to HR. (Chatbot infer this to the user.)
+
+### Researcher:<br>
+
+ 
+![Project screenshot](img/researcher.jpg)
+
+
+When the email is sent by any researcher it fetches the information required by him/her and drafts a response accordingly.
+
+
+
+### Student:<br>
+
+
+
+![Project screenshot](img/student.jpg)
+
+
+When the email is sent by a student, it looks for any information in documents asked by the student and replies accordingly.
+
+
+### Sesitive Information:<br>
+
+
+![Project screenshot](img/sensi.jpg)
+
+
+
+If the email contains any sensitive information, the chatbot identifies it and formwards it to HOD and informs the same to the sender.
+
+
+
+
+
+
 
