@@ -1,8 +1,11 @@
-# Email Handler
+# Automated Email Chatbot
 Name - Lokesh Khandelwal
 Roll no. - 21110113
 Institue - IIT, Gandhinagar
 
+Architecture:
+
+![Project screenshot](img/"chatbot architecture.jpg")
 
 The basic flow of my application is like following:
 Step 1: User gives input to the chatbot.
