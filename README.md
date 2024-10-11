@@ -32,12 +32,15 @@ streamlit run app.py
 ```
 
 ## VectorDB Used:<br>
+
 I have used ChromaDB as my db to store documents embeddings, due to its ease of use with langchain, it works well with langchain libraries and has many type of uploaders. I have uploaded the file chroma-rag-files/chroma_upload.py which uploades pdf as embedding in chunks to the db.<br>
 
 ## Classifier Used:<br>
+
 I have fine-tuned the RobertA model for the email classification task. The main reason behind selecting it, is it's transformer based architecture. RoBERTa's fine-tuning capabilities allow it to map input texts to multiple categories effectively, while its deep layers enable it to distinguish subtle differences between classes. Overall, RoBERTa’s state-of-the-art performance and strong generalization make it ideal for multiclass classification.<br>
 
 ## LLamma3-70b-8192:<br>
+
 I used LLama3-70b-8192 for the dataset generation as well as for drafting mails. I prompted the model according to the usecase. Also in the final layer, it is prompted to identify any sensitive information in the mail and draft the mail accordingly.<br>
         
 ## Working of Chatbot<br>
