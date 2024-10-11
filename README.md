@@ -80,6 +80,8 @@ If the email contains any sensitive information, the chatbot identifies it and f
 
 ### Live Demo of the Chatbot:
 
+Click below to watch the live demo.
+
 [![Watch the video](https://img.youtube.com/vi/FU9xiSRmr0A/maxresdefault.jpg)](https://www.youtube.com/watch?v=FU9xiSRmr0A "Watch the video on YouTube")
 
 
