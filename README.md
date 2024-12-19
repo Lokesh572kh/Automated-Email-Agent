@@ -9,7 +9,7 @@ Institue - IIT Gandhinagar<br>
 
 The basic flow of my application is like following:<br>
 Step 1: User gives input to the chatbot.<br>
-Step 2: The input is given to the email-classifer, which classifies the image into three classes (students, researcher, corporates).<br>
+Step 2: The input is given to the email-classifer, which classifies the input into three classes (students, researcher, corporates).<br>
 Step 3: If the class is 'corporates' the mail saying the email has been forwarded to HOD is sent.<br>
 Step 4: If not corporate, the mail is sent to VectorDB where it retrieves the most relevant document asked in the mail using similarity search.<br>
 Step 5: The email, the class type(student, researcher), the retrieved documents are sent as an input to LLama3 which is prompted with following specifications:<br>
